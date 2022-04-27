@@ -1,0 +1,19 @@
+{
+    "name": "devmachteam/challenge",
+    "description": "Tnc Framework",
+    "type": "framework",
+    "autoload": {
+        "psr-4": {
+            "TncBzkrt\\": "./"
+        },
+        "files": [
+            "Config/Helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Tuncay Bozkurt",
+            "email": "devmachteam@gmail.com"
+        }
+    ]
+}
